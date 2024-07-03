@@ -1,0 +1,16 @@
+
+@font-face{
+    font-family: 'Agdasima';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src:url(../webfonts/Agdasima-Regular.ttf);
+}
+
+@font-face {
+   font-family: "Agdasima";
+    font-style: normal;
+    font-weight: 700;
+    font-display: auto;
+    src:url(../webfonts/Agdasima-Bold.ttf);
+}
