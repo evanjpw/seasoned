@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Seasoned Tech</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Seasoned Tech</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Seasoned Tech</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>Welcome to Seasoned Tech, your partner in navigating the complex world of technology leadership and innovation.&#xA;Our Mission At Seasoned Tech, we believe that every company, regardless of its size or industry, deserves access to top-tier technical leadership. Our mission is to provide executive-level tech expertise on demand, helping businesses overcome challenges, seize opportunities, and achieve their technology goals.&#xA;Who We Are Seasoned Tech is the brainchild of Evan Williams, a veteran software engineer and technology leader with over four decades of experience in the industry.</description>
+    </item>
+    <item>
+      <title>Meet Evan Williams</title>
+      <link>http://localhost:1313/posts/biography/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/biography/</guid>
+      <description>A Journey Through Four Decades of Tech Innovation</description>
+    </item>
+  </channel>
+</rss>

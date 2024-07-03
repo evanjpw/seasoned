@@ -109,31 +109,26 @@
     <loc>http://localhost:1313/de/tags/beispiel/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/de/posts/sixth/</loc>
+    <loc>http://localhost:1313/de/posts/about/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/sixth/"
+                href="http://localhost:1313/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/posts/sixth/"
+                href="http://localhost:1313/es/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/sixth/"
+                href="http://localhost:1313/de/posts/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/tags/duis-neque/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/duis-neque/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -163,31 +158,26 @@
                 href="http://localhost:1313/de/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/fifth/</loc>
+    <loc>http://localhost:1313/de/posts/biography/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/fifth/"
+                href="http://localhost:1313/posts/biography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/posts/fifth/"
+                href="http://localhost:1313/es/posts/biography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/fifth/"
+                href="http://localhost:1313/de/posts/biography/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/tags/lorem-ipsum/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/lorem-ipsum/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -199,76 +189,40 @@
                 href="http://localhost:1313/de/tags/lorem-ipsum/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/fourth/</loc>
+    <loc>http://localhost:1313/de/posts/services/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/fourth/"
+                href="http://localhost:1313/posts/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/posts/fourth/"
+                href="http://localhost:1313/es/posts/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/fourth/"
+                href="http://localhost:1313/de/posts/services/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/third/</loc>
+    <loc>http://localhost:1313/de/posts/faq/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/third/"
+                href="http://localhost:1313/posts/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/posts/third/"
+                href="http://localhost:1313/es/posts/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/posts/third/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/posts/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/second/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/posts/second/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/posts/second/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/posts/first/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/posts/first/"
+                href="http://localhost:1313/de/posts/faq/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/tags/beispiele/</loc>

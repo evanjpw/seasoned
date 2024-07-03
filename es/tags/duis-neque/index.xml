@@ -11,23 +11,16 @@
     <atom:link href="http://localhost:1313/es/tags/duis-neque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Sexta Cosa</title>
-      <link>http://localhost:1313/es/posts/sixth/</link>
+      <link>http://localhost:1313/es/posts/about/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/sixth/</guid>
+      <guid>http://localhost:1313/es/posts/about/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>La Tercera Cosa</title>
-      <link>http://localhost:1313/es/posts/third/</link>
+      <link>http://localhost:1313/es/posts/faq/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/third/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    <item>
-      <title>La Segunda Cosa</title>
-      <link>http://localhost:1313/es/posts/second/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/posts/second/</guid>
+      <guid>http://localhost:1313/es/posts/faq/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
   </channel>
