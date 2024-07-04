@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Questions on Seasoned Tech</title>
-    <link>http://localhost:1313/tags/questions/</link>
-    <description>Recent content in Questions on Seasoned Tech</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/questions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/posts/faq/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/faq/</guid>
-      <description>FAQ:&#xA;What types of companies do you work with? How long do typical engagements last? Can you scale up resources for larger projects? What&amp;rsquo;s your approach to project management? How do you ensure knowledge transfer at the end of an engagement? </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Questions on Seasoned Tech</title><link>https://seasoned.llc/tags/questions/</link><description>Recent content in Questions on Seasoned Tech</description><generator>Hugo</generator><language>en</language><copyright>© Untitled. All rights reserved</copyright><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://seasoned.llc/tags/questions/index.xml" rel="self" type="application/rss+xml"/><item><title>Frequently Asked Questions</title><link>https://seasoned.llc/posts/faq/</link><pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate><guid>https://seasoned.llc/posts/faq/</guid><description>FAQ:
+What types of companies do you work with? How long do typical engagements last? Can you scale up resources for larger projects? What&amp;rsquo;s your approach to project management? How do you ensure knowledge transfer at the end of an engagement?</description></item></channel></rss>
