@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 13:47:59 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Barra Izquierda</title>
@@ -36,6 +36,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/no-sidebar/</guid>
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.&#xA;Y Otra Subcabecera Más Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
+    </item>
+    <item>
+      <title>créditos fotográficos</title>
+      <link>http://localhost:1313/es/photo-credits/</link>
+      <pubDate>Wed, 03 Jul 2024 13:47:59 +0000</pubDate>
+      <guid>http://localhost:1313/es/photo-credits/</guid>
+      <description>From Pexels:&#xA;A Cup of Black Coffee Beside a Laptop on a Wooden Desk por cottonbro studio Close-up of Semiconductors por Anton Belitskiy Note Everything Will Be Okay Plastered on a Wall por Beyzaa Yurtkuran </description>
     </item>
     <item>
       <title>La Sexta Cosa</title>
